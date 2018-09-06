@@ -1,0 +1,90 @@
+﻿body {
+	background-color: lightblue;
+	margin-top: 100px;
+   	margin-bottom: 100px;
+   	margin-right: 100px;
+   	margin-left: 100px;
+}
+.title {
+	color: #0086b3;
+}
+p {
+	font-size: 14px;
+	font-family: "Courier New";
+}
+.coffee {
+	font-size: 15px;
+	font-family: "Courier New";
+}
+.imageName { 
+	text-align: center;
+	font-size: 12px;
+	color: #0086b3;
+}
+.quote {
+    	height: 25px;
+    	width: 800px;
+	padding: 30px;
+    	background-color: #0086b3;
+	margin-top: auto;
+	
+}
+div.quote {
+	text-align: center;
+	font-family: "Courier New";
+	font-style: italic;
+}
+.table {
+	border: 1px solid white;
+}
+
+th, td {
+	text-align: center;
+	padding: 15px;
+	color: #0086b3;
+}
+tr:nth-child(odd) {
+	background-color: rgb(204, 239, 255);
+}
+h4 {
+	font-size: 20px;
+	color:  #006080;
+	font-family: "Tahoma";
+}
+
+h1 {
+	text-align: center;
+	font-family: "Courier New";
+	color: #006080;
+}
+a:hover {
+   	 color: white;
+    	background-color: transparent;
+    	text-decoration: underline;
+	transition: 0.3s;
+}
+a:link {
+	font-size: 12px;
+	text-align: center;
+}
+img {
+    	margin-left: auto;
+    	margin-right: auto;
+	display: block;
+}
+#hobby1 {
+	font-style: italic;
+	font-family: "Courier New";
+}
+#hobby2 {
+	font-style: italic;
+	font-family: "Courier New";
+}
+.heading{
+	font-style: italic;
+	
+}
+.tab {
+	padding: 10px;
+}
+	
